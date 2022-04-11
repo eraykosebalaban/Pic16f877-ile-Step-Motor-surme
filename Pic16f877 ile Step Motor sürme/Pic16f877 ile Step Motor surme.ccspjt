@@ -1,0 +1,40 @@
+[PROJECT]
+Target=Pic16f877 ile Step Motor surme.hex
+Processor_Text=PIC16F877
+CCSVersion=5.049
+Compiler=PCM
+[Target Data]
+FileList=Pic16f877 ile Step Motor surme.c
+[Pic16f877 ile Step Motor surme.c]
+Type=4
+[mru-list]
+1=Pic16f877 ile Step Motor surme.c
+
+[defines]
+buildcount=13
+
+[Opened Files]
+1=Pic16f877 ile Step Motor surme.c
+t1=41
+Count=1
+2=..\AppData\Local\Temp\Rar$DIa0.119\stepmotorr.c
+t2=66
+
+[ProjectLog]
+Days=1
+D1=10-04-2022
+D1_L=7
+D1_L1=[48721]Stopped Editing.
+D1_L2=[61910]Project Opened.
+D1_L3=[61996]Started Editing.
+D1_L4=[62344]Stopped Editing.
+D1_L5=[63115]Started Editing.
+D1_L6=[63489]Stopped Editing.
+TotalEdit=3
+TotalDebug=0
+D1_E=3
+D1_D=0
+D1_L7=[65095]Project Closed.
+[Units]
+Count=1
+1=Pic16f877 ile Step Motor surme (main)
